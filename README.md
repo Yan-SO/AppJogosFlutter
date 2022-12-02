@@ -1,17 +1,3 @@
 # appjogos
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
+Um aplicativo que eu criei para uma matéria da faculdade. Ele é um app simples de compartilhamento de opinião sobre jogos, onde você pode falar sobre qualquer jogo, informando o nome, a plataforma escolhida para jogar, uma nota, entre outros. Podendo alterar a qualquer momento as suas postagens.
