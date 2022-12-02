@@ -1,0 +1,12 @@
+C:/projetos/dart/appjogos/build/windows/runner/Debug/data/icudtl.dat
+C:/projetos/dart/appjogos/build/windows/runner/Debug/flutter_windows.dll
+C:/projetos/dart/appjogos/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/projetos/dart/appjogos/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/projetos/dart/appjogos/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/projetos/dart/appjogos/build/windows/runner/Debug/data/flutter_assets/images/pngtree-error-404-page-png-image_3811907.jpg
+C:/projetos/dart/appjogos/build/windows/runner/Debug/data/flutter_assets/images/useravatar.png
+C:/projetos/dart/appjogos/build/windows/runner/Debug/data/flutter_assets/images/wallparer.webp
+C:/projetos/dart/appjogos/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/projetos/dart/appjogos/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/projetos/dart/appjogos/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/projetos/dart/appjogos/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

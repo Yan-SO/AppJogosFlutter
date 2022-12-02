@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\projetos\dart\appjogos\build\windows\CMakeFiles\91eb65b1e27f31af9a7ba03ddb47c7de\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7B1AD846-A109-35AE-80A7-2151F2D8E010}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
